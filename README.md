@@ -16,7 +16,7 @@ Platforms I use
 ---------------
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,androidstudio,github,linux,kali,redhat,notion,pycharm,vscode,idea,bash" />
+    <img src="https://skillicons.dev/icons?i=git,androidstudio,github,linux,kali,redhat,notion,pycharm,vscode,idea,bash&perline=5" />
   </a>
 </p>
 
