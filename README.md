@@ -1,6 +1,9 @@
 Hi 👋 My name is Ayush Kishan
 =============================
-
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/ayuhzkishan/count.svg" />
+</p>
 Mobile App developer
 --------------------
 
