@@ -1,4 +1,4 @@
-Hi 👋 My name is Ayush Kishan
+Hi 👋 I'm Ayush Kishan
 =============================
 <img align="centre" alt="coding" heigth="30"  src="https://media2.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.webp?cid=790b7611k0pqdrohaeqd60weqgjwkco27larfhihcaz3jf8y&ep=v1_gifs_search&rid=giphy.webp&ct=g">
 
