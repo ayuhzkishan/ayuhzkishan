@@ -10,7 +10,7 @@ I am passionate about shaping my journey into the world of technology and innova
 *   ✉️  You can contact me at [ayush.kishan29@gmail.com](mailto:ayush.kishan29@gmail.com)
 *   🧠  I'm learning Kotlin
 *   🤝  I'm open to collaborating on App development
-*   ⚡  Avid football fan and like to binge watch Ben 10 again and again### Skills
+*   ⚡  Avid football fan and like to binge watch Ben 10 
 
 Platforms I use
 ---------------
