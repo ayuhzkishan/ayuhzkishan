@@ -2,17 +2,52 @@ Hi 👋 I'm Ayush Kishan
 =============================
 <img align="centre" alt="coding" heigth="10"  src="https://media2.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.webp?cid=790b7611k0pqdrohaeqd60weqgjwkco27larfhihcaz3jf8y&ep=v1_gifs_search&rid=giphy.webp&ct=g" width="250">
 
-Mobile App developer
---------------------
+## 👨‍💻 Ayush K — Cybersecurity & Android Developer
 
-I am passionate about shaping my journey into the world of technology and innovation. Eager to become a proficient app developer and programmer, I am dedicated to honing my skills and staying ahead in the dynamic field of technology. My drive extends beyond code: I aspire to take on impactful leadership roles within clubs and societies. I believe in the power of collaboration and continuous learning, and I'm excited to connect with like-minded individuals who share a passion for technology, innovation, and personal growth.
+I’m a Computer Science student focused on **Cybersecurity and automation**, building secure systems and exploring real-world vulnerabilities.  
 
-*   🌍  I'm based in Odisha, India
-*   ✉️  You can contact me at [ayush.kishan29@gmail.com](mailto:ayush.kishan29@gmail.com)
-*   🧠  I'm learning Kotlin
-*   🤝  I'm open to collaborating on App development
-*   ⚡  Avid football fan and like to binge watch Ben 10 
+I actively work on **offensive security (cloud security, devsecops web exploitation)** aiming to bridge the gap between development and security.
 
+---
+
+### 🚀 What I’m Working On
+- 🔐 Learning and practicing **Web & Network Security**
+- 🧪 Hands-on labs on **TryHackMe(Top  5%) / CTF challenges**
+- 🛠 Exploring **automation & security tools**
+
+---
+
+### 🧠 Skills & Tech
+- **Languages:** Kotlin, Java, Python, C++
+- **Cybersecurity:** Web Security, Networking, Basic Pentesting
+- **Tools:** Burp Suite, Nmap, Wireshark, Metasploit
+- **Concepts:** OSI Model, HTTP/HTTPS, Authentication, Vulnerabilities, OWASP top10
+
+---
+
+### 📌 Goals
+- 🏆 Crack a **high-impact cybersecurity internship**
+- 🐞 Contribute to **bug bounty programs**
+- 🔒 Build **secure, production-level applications**
+- 📈 Grow as a **DevSecOps Engineer / Security Engineer**
+
+---
+
+### 🤝 Let’s Collaborate
+- Android apps with **security-first approach**
+- Cybersecurity projects / tools
+- CTF teams & learning groups
+
+---
+
+### 🌐 Connect With Me
+- 📍 Odisha, India  
+- ✉️ ayush.kishan29@gmail.com  
+
+---
+
+### ⚡ Fun Fact
+Football enthusiast ⚽ | Occasionally binge-watching *Ben 10*
 Platforms I use
 ---------------
 <p align="center">
