@@ -56,6 +56,20 @@ Platforms I use
   </a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Burp_Suite-orange?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=gnu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLmap-CC2927?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/FFUF-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Gobuster-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Amass-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/John_the_Ripper-8B0000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hashcat-FF6F00?style=for-the-badge" />
+</p>
+
 Proficient in these Languages and tech stacks
 ---------------
 <p align="center">
@@ -98,6 +112,6 @@ My Practice Ground!
 ![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)  
   
   
-  <a href="https://github.com/ayuhzkishan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayuhzkishan&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
 
 
