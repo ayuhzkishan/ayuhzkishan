@@ -48,6 +48,7 @@ I actively work on **offensive security (cloud security, devsecops web exploitat
 
 ### ⚡ Fun Fact
 Football enthusiast ⚽ | Occasionally binge-watching *Ben 10*
+
 Platforms I use
 ---------------
 <p align="center">
