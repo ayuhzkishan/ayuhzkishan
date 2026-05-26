@@ -6,7 +6,7 @@ Hi 👋 I'm Ayush Kishan
 
 I’m a Computer Science student focused on **Cybersecurity and automation**, building secure systems and exploring real-world vulnerabilities.  
 
-I actively work on **offensive security (cloud security, devsecops web exploitation)** aiming to bridge the gap between development and security.
+I actively work on **offensive security (cloud security, devsecops and web exploitation)** aiming to bridge the gap between development and security.
 
 ---
 
